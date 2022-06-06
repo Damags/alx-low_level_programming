@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sdtlib.h>
+#include <stdlib.h>
 /**
  * main - main block
  * Description: prints all single digits of base 
