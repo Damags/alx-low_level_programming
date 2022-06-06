@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib>
 #include <time.h>
+#include <stdlib>
 /**
  * main - main block
  * Description: prints all single digit numbers of
