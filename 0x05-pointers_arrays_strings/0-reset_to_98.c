@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "school.h"
 /**
  * reset_to_98 - reset argument to 98
  * @n: pointer
